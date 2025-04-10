@@ -1,1 +1,1 @@
-edu后端(springboot),online_edu前端(),edu_structre.sql是mysql数据库脚本
+edu后端(springboot),online_edu前端(vue3),edu_structre.sql数据库脚本(mysql)
